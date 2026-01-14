@@ -41,14 +41,14 @@
 
 
 <p align="center">
-<a href="https://github.com/NipunaDil99/github-readme-stats"><img alt="Nipuna Dilshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaDil99&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/NipunaAluthdeniya/github-readme-stats"><img alt="Nipuna Dilshan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipunaAluthdeniya&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-<p align="center">&nbsp;<img alt="Dilshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NipunaDil99&show_icons=true&count_private=true&theme=dracula&bg_color=0D1117" /></p>
+<p align="center">&nbsp;<img alt="Dilshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NipunaAluthdeniya&show_icons=true&count_private=true&theme=dracula&bg_color=0D1117" /></p>
 <br/>
 
 <p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nipuna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NipunaDil99&theme=dracula&stroke=0000&background=060A0CD0" />
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nipuna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NipunaAluthdeniya&theme=dracula&stroke=0000&background=060A0CD0" />
 </p>   
 
 
