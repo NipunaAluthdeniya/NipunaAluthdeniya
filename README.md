@@ -1,6 +1,6 @@
 <img align="center" width="100%" height="100%" src="https://64.media.tumblr.com/2de6317171c4874fee950354c6582346/0cf2023b650b53f6-96/s2048x3072/02b58b350da101a2e20868daa412ef73f4b4db72.jpg">
 <h1 align="center">Hi 👋, I'm Nipuna Aluthdeniya</h1>
-<h2 align="center">Software Engineer at IFS</h2>
+<h2 align="center">Software Engineer</h2>
 <h3 align="center">IT Graduate at University of Moratuwa</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -10,7 +10,7 @@
 
 <h2 align="left"><b>🙋‍♂️ About Me</b></h2>
 
-- 💬 Ask me about **react, Angular, spring boot, ASP.NET and NodeJS**
+- 💬 Ask me about **React, Angular, spring boot, ASP.NET and NodeJS**
 
 - 📫 How to reach me **nipunaaluthdeniya@gmail.com**
 
@@ -48,7 +48,7 @@
 <br/>
 
 <p align="center">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Haresh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NipunaDil99&theme=dracula&stroke=0000&background=060A0CD0" />
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nipuna's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NipunaDil99&theme=dracula&stroke=0000&background=060A0CD0" />
 </p>   
 
 
